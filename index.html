@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Canciones</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="player-container">
+    <h1 class="titulo">Haytham</h1>
+    <div class="controls">
+      <button id="play-btn">▶</button>
+      <div id="progress-container">
+        <div id="progress"></div>
+      </div>
+      <span id="current-time">0:00</span> / <span id="duration">0:00</span>
+      <div class="volume-control">
+        🔊
+        <input type="range" id="volume" min="0" max="1" step="0.01" value="1" />
+      </div>
+    </div>
+
+    <ul id="playlist">
+      <li class="active" data-src="meant_to_be.mp3">Meant to Be</li>
+      <li data-src="meant_to_be_español.mp3">Meant to Be Español</li>
+      <li data-src="Miss_wanna_die.mp3">Miss Wanna Die</li>
+      <li data-src="Miss_Wanna_Die_Español.mp3">Miss Wanna Die Español</li>
+      <li data-src="After_dark.mp3">After Dark</li>
+      <li data-src="After_Dark_Español.mp3">After Dark Español</li>
+    </ul>
+
+    <audio id="audio" src="meant_to_be.mp3"></audio>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+	
