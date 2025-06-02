@@ -682,6 +682,64 @@ Until I make you`,
 
 	"Make_You_Mine_Español": ``,
 
+	"I_Love_You_So.mp3": `I just need someone in my life
+To give it structure
+To handle all the selfish ways
+I'd spend my time without her
+You're everything I want
+But I can't deal with all your lovers
+Saying I'm the one
+But it's your actions that speak louder (oh)
+
+Giving me love when you are down
+And need another
+I've got to get away and let you go (oh)
+I've got to get over
+
+But I love you so
+I love you so
+I love you so
+I love you so
+
+I'm gonna pack my things
+And leave you behind
+This feeling's old and I know that
+I've made up my mind
+
+I hope you feel what I felt
+When you shattered my soul
+'Cause you were cruel and I'm a fool
+So please let me go
+
+But I love you so (please let me go)
+I love you so (please let me go)
+I love you so (please let me go)
+I love you so`,
+
+	"I_Love_You_So_Español.mp3": `Yo necesito a alguien que de forma a mi vida
+Y que del tiempo sin ella maneje lo egoísta
+Eres todo lo que quiero, no con tus amantes.
+Dices que soy yo pero no notas lo que haces
+Me das amor si estás triste y necesitas de alguien
+
+Debo alejarme y dejarte, debo superarte.
+
+Pero te amo tanto (ooh-ooh)
+Te amo tanto (ooh-ooh)
+Te amo tanto (ooh-ooh)
+Te amo tanto (ooh-ooh)
+
+Voy a empacar mis cosas, dejarte sin más 
+Lo decidí aunque el sentir ya es de un buen tiempo atrás
+Espero sientas lo que sentí al tu dañar mi alma.
+fuiste muy cruel y yo un tonto
+Así que déjame ir
+
+Pero te amo tanto (déjala ir) 
+Te amo tanto (déjala ir) [déjame ir]
+Te amo tanto (déjala ir) [déjame ir]
+Te amo tanto`
+
 };
 const audio = document.getElementById('audio');
 const playBtn = document.getElementById('play-btn');
