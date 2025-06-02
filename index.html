@@ -22,21 +22,28 @@
     </div>
 
     <ul id="playlist">
-      <li class="active" data-src="meant_to_be.mp3">Meant to Be</li>
-      <li data-src="meant_to_be_Español.mp3">Meant to Be Español</li>
-      <li data-src="Miss_wanna_die.mp3">Miss Wanna Die</li>
-      <li data-src="Miss_Wanna_Die_Español.mp3">Miss Wanna Die Español</li>
-      <li data-src="After_Dark.mp3">After Dark</li>
-      <li data-src="After_Dark_Español.mp3">After Dark Español</li>
-      <li data-src="Amour_Plastique.mp3">Amour Plastique</li>
-      <li data-src="Amour_Plastique_Español.mp3">Amour Plastique Español</li>
-      <li data-src="Another_love.mp3">Another Love</li>
-      <li data-src="Another_Love_Esapñol.mp3">Another Love Español</li>
-      <li data-src="I Wanna_Be_Your_Slave.mp3">I Wanna Be Your Slave</li>
-      <li data-src="I Wanna_Be_Your_Slave_Español.mp3">I Wanna Be Your Slave Español</li>
-      <li data-src="Make_you_Mine.mp3">Make You Mine</li>
-      <li data-src="Make_You_Mine_Español.mp3">Make You Mine Español</li>
-    </ul>
+    <div id="playlist-lyrics-container" style="display: flex; gap: 20px; margin-top: 20px;">
+  <ul id="playlist" style="flex: 1; max-width: 320px;">
+    <li class="active" data-src="meant_to_be.mp3">Meant to Be</li>
+    <li data-src="meant_to_be_Español.mp3">Meant to Be Español</li>
+    <li data-src="Miss_wanna_die.mp3">Miss Wanna Die</li>
+    <li data-src="Miss_Wanna_Die_Español.mp3">Miss Wanna Die Español</li>
+    <li data-src="After_Dark.mp3">After Dark</li>
+    <li data-src="After_Dark_Español.mp3">After Dark Español</li>
+    <li data-src="Amour_Plastique.mp3">Amour Plastique</li>
+    <li data-src="Amour_Plastique_Español.mp3">Amour Plastique Español</li>
+    <li data-src="Another_love.mp3">Another Love</li>
+    <li data-src="Another_Love_Esapñol.mp3">Another Love Español</li>
+    <li data-src="I_Wanna_Be_Your_Slave.mp3">I Wanna Be Your Slave</li>
+    <li data-src="I_Wanna_Be_Your_Slave_Español.mp3">I Wanna Be Your Slave Español</li>
+    <li data-src="Make_you_Mine.mp3">Make You Mine</li>
+    <li data-src="Make_You_Mine_Español.mp3">Make You Mine Español</li>
+  </ul>
+
+  <div id="lyrics" style="flex: 1; color: #0ff; white-space: pre-wrap; max-height: 400px; overflow-y: auto; border: 1px solid #0ff; padding: 15px; font-size: 0.9em; background: #111; border-radius: 10px;">
+   
+  </div>
+</div>
 
     <audio id="audio" src="meant_to_be.mp3"></audio>
   </div>
