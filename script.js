@@ -284,6 +284,101 @@ On your patient lips
 To eternal bliss
 I'm so glad to know`,
 
+	"After_Dark_Español.mp3": `Te miro, me miras.
+Me encanta sentirte.
+
+Te abrazo, me abrazas
+te extraño, lo siento
+
+mi todo te otorgo.
+te muestro mi avance
+
+Calientes cenizas...
+Tu voz me consuela.
+
+El reloj mirar, para preguntar
+antes de quedar en la soledad.
+
+¿Qué se sentirá tus labios probar?
+para alegre estar por la eternidad.
+
+El reloj mirar, para preguntar
+antes de quedar en la soledad.
+
+¿Qué se sentirá tus labios probar?
+para alegre estar por la eternidad.
+
+Balance constante.
+Te mueves, lo sientes
+
+Paciencia controlas.
+Preguntas ignoras
+
+Contamos historias
+Reímos, lo sabes.
+
+Nos vamos hablando.
+Estamos amando
+
+El reloj mirar, para preguntar
+antes de quedar en la soledad.
+
+¿Que se sentirá tus labios probar?
+para alegre estar por la eternidad.
+
+El reloj mirar, para preguntar
+antes de quedar en la soledad.
+
+¿Que se sentirá tus labios probar?
+para alegre estar por la eternidad.
+
+El reloj mirar, para preguntar
+antes de quedar en la soledad.
+
+¿Que se sentirá tus labios probar?
+para alegre estar por la eternidad.
+
+~Parte borrada~
+
+La noche nos mantendrá cerca.
+Y las estrellas nos guiarán a casa
+
+Estuve esperando con ansias este momento
+en el que al fin estemos a solas
+
+Volveré a hacerte la pregunta...
+Mis pensamientos están ansiosos
+
+Tus labios eran tan suaves como el invierno
+Me temo que tu pasión me perdió
+
+~~~~~~~~~~~
+
+El reloj mirar, para preguntar
+antes de quedar en la soledad.
+
+¿Que se sentirá tus labios probar?
+para alegre estar por la eternidad.
+
+El reloj mirar, para preguntar
+antes de quedar en la soledad.
+
+¿Que se sentirá tus labios probar?
+para alegre estar por la eternidad.
+
+El reloj mirar, para preguntar
+antes de quedar en la soledad.
+
+¿Que se sentirá tus labios probar?
+para alegre estar por la eternidad.
+
+El reloj mirar, para preguntar
+antes de quedar en la soledad.
+
+¿Que se sentirá tus labios probar?
+para alegre estar por la eternidad.
+ `,
+
 	"Amour_Plastique.mp3": `Dans mon esprit tout divague
 Je me perds dans tes yeux
 Je me noie dans la vague
@@ -680,7 +775,63 @@ Oh darlin', darlin', baby, you're so very fine
 You know that I won't stop until I make you mine
 Until I make you`,
 
-	"Make_You_Mine_Español": ``,
+	"Make_You_Mine_Español.mp3": `Te llamaré cariño
+y todos nos irá muy bien
+Sé que tuya soy y todo mío eres
+Ya no importa el porqué
+En la noche caminamos
+nada raro 
+Solo... Hablar
+
+No me dejes ir
+Tu sabbes que yo quiero estar junto a ti
+No pararé hasta que seas para mi
+No pararé hasta que seas para mi
+Que seas para mí
+ ♪♪♪
+
+Si. Te llamé cariño
+Y lo diría una ves más
+Ya bésame hasta que duela
+Que te vas y yo esté mal
+Yo te heriré y tú también
+Con cosas que lamentaré
+ ♪♪♪
+
+No me dejes ir
+Tu sabbes que yo quiero estar junto a ti
+No pararé hasta que seas para mi
+No pararé hasta que seas para mi
+Que seas para mí
+
+Debes saber
+Lo haremos bien
+Te quiero ver
+Lo haremos bien
+Que duro es que te fuiste 
+
+Por mis dedos a no estás (Debes saber)
+(Lo haremos bien) Y como es que debía saber (Te quiero ver)
+¿Qué no me ibas a amar?
+No me dejes ir
+Tu sabes que yo quiero estar junto a ti
+
+No pararé hasta que seas para mi
+No pararé hasta que seas para mi
+Que seas para mí
+No me dejes ir
+Tu sabes que yo quiero estar junto a ti
+
+Cariño eres tan linda, no hay otra asi
+No pararé hasta que seas para mi
+Que seas para...
+
+Laaa...laaa...laaa...
+Laaa...laaa...laaa...
+Laaa...laaa...laaa...
+Laaa...laaa...laaa...
+Laaa...laaa...laaa...
+Laaa...laaa...laaa...`,
 
 	"I_Love_You_So.mp3": `I just need someone in my life
 To give it structure
@@ -738,7 +889,250 @@ Así que déjame ir
 Pero te amo tanto (déjala ir) 
 Te amo tanto (déjala ir) [déjame ir]
 Te amo tanto (déjala ir) [déjame ir]
-Te amo tanto`
+Te amo tanto`,
+
+	"Luma.mp3": `Novedad
+Va iniciando este amor
+Aun estás oculta y yo te debo descifrar
+
+Cuarto
+Va creciente el corazón
+Te veo un poco más, de perfil que linda estás
+
+Ay
+Luna, luna luna
+Dame la dicha y fortuna
+De dormir entre tus dunas
+Otra vez
+
+Ay
+Luna, luna, luna
+Eres el faro que me alumbra
+Entre la oscuridad confusa
+Guíame
+
+Luna llena luminiscente
+Me hechizaste en fase brillante
+Tu cariño no se me pierde
+Ni siquiera en cuarto menguante
+
+Y aunque todo esto se acabe
+Y tu rostro ya no lo vea
+El ciclo volverá al instante
+En que te conocí, Luna Nueva
+
+Pues tu sabes bien
+Que yo te soñaré
+Durante siglos y siglos
+Siempre te voy a querer
+
+Pues tu sabes bien
+Que yo te soñaré
+Durante siglos y siglos
+Aunque no me puedas ver
+
+Ay
+Luna, luna luna
+Dame la dicha y fortuna
+De dormir entre tus dunas
+Otra vez
+
+Ay
+Luna, luna, luna
+Eres el faro que me alumbra
+Entre la oscuridad confusa
+Guíame
+
+Todos los procesos tiene un inicio y fin
+Porque todo lo que nace
+Se tiene que morir
+Pero hoy estás aquí
+Igual que la noche anterior
+
+Tu proceso se repite
+Y se recicla nuestro amor
+
+Y desde aquí te estaré viendo
+Como brillas todavía 
+Como cubres con tu sábana 
+Azul mi vida fría
+Que de día es pesadilla
+Y en las noches de nostalgia
+Tu recuerdo me acompaña
+Y me salva del miedo a la nada
+
+Ay
+Luna, luna luna
+Dame la dicha y fortuna
+De dormir entre tus dunas
+Otra vez
+
+Ay
+Luna, luna, luna
+Eres el faro que me alumbra
+Entre la oscuridad confusa
+Guíame
+
+Luna
+Eres mi luz
+Eres mi lumbre
+En la noche oscura
+
+Ay
+Luna
+Eres mi luz
+Eres mi lumbre
+En la noche oscura
+`,
+
+	"Desconexión_Emocional.mp3": `Tengo días sin dormir
+Paso noches sin decir
+Lo harto que estoy, de ti
+
+Ni un segundo estoy en paz
+Grito fuerte en soledad
+Y nadie me escucha
+Nadie me ayuda
+
+No hay nadie que entienda más que yo
+Que estoy cansado, desvelado
+Sintiendo que todo se acabó
+Pero eso es solo el principio
+
+Desconexión emocional
+Solo por querer lograr ser alguien 
+(lograr ser alguien)
+Entre paredes de cristal
+Tengo rocas que lanzar al aire
+¡Que algo cambie!
+
+No hay nadie que entienda más que yo
+Que estoy cansado, desvelado
+Sintiendo que todo se acabó
+Pero eso es solo el principio
+
+Tengo miedo de continuar
+Si paro no sé qué sucederá
+Todo podría terminar
+Una oportunidad 
+(¡una oportunidad!)
+
+No hay nadie que entienda más que yo
+Que estoy cansado, desvelado
+Sintiendo que todo se acabó
+Pero eso es solo el principio
+
+(No hay nadie que entienda más que yo)
+(Que estoy cansado, desvelado)`,
+
+	"Addict.mp3": `Hazme adicta
+Hazme adicta
+Me vuelvo más tonta cada vez
+Que te respondo
+Ooh ooh ooh ooh ooh
+No puedo decirte que no
+Ooh ooh ooh ooh ooh
+No puedo decirte que no
+
+Hazme adicta
+Hazme adicta
+Caigo más fuerte cada vez que me vengo por ti
+Ooh ooh ooh ooh ooh
+No puedo decirte que no
+Ooh ooh ooh ooh ooh
+No puedo decirte que no
+
+Caer más profundo, (cayendo en ti)
+Callendo más profundo, (justo como quieres)
+Caer más profundo, (cayendo en ti)
+Cayendo más profundo, (como si me necesitaras)
+
+Conéctame y, yo podríaser tu solución rápida
+Amo esta adicción
+Enfermedad del entretenimiento
+Bajando a toda tu desesperación
+Me encanta que te guste ceder a la tentación
+Me encanta cuando dices mi nombre
+No quiero usar mi cerebro
+Sólo quiero ser tu secretro y tu juguete
+
+Ah ah ah ah
+Me encanta cuando lo haces
+Ah ah ah ah
+ven, recuéstate en mí, cariño
+
+Y nunca nos importó una mierda el uno al otro
+Y nunca nos importó una mierda el uno al otro
+Juega conmigo hasta que te vatas y encuentres a otra
+Nunca me importó una mierda, ahora fóllame
+
+Hazme adicta
+Hazme adicta
+Me vuelvo más tonta cada vez
+Que te respondo
+Ooh ooh ooh ooh ooh
+No puedo decirte que no
+Ooh ooh ooh ooh ooh
+No puedo decirte que no
+
+Hazme adicta
+Hazme adicta
+Caigo más fuerte cada vez que me vengo por ti
+Ooh ooh ooh ooh ooh
+No puedo decirte que no
+Ooh ooh ooh ooh ooh
+No puedo decirte que no
+
+Caer más profundo, (cayendo en ti)
+Callendo más profundo, (justo como quieres)
+Caer más profundo, (cayendo en ti)
+Cayendo más profundo, (como si me necesitaras)
+
+Me vuelvo más tonta cada vez que te respondo
+Y caigo más fuerte cada vez que me vengo por ti
+Quiero ser algo tuyo
+No quiero ver tu lugar
+No quiero probar que puedo igualar a tus locuras
+Suplicando de rodillas
+Para que te burles de mí
+Y si me portno bien,
+¿Tendré una recompensa?
+Así que ven y susúrrame
+Todas las cositas sucias
+Que quieras hacerme oh
+
+Soy un drogadicto,
+Tú eres la droga que me hace volver a por más
+
+No tengo suficiente
+¡La necesito tanto!
+Haría cualquier cosa por ti, lo que quieras
+¡Estoy obsesionado con tu forma de ser!
+
+Hazme adicta
+Hazme adicta
+Me vuelvo más tonta cada vez
+Que te respondo
+Ooh ooh ooh ooh ooh
+No puedo decirte que no
+Ooh ooh ooh ooh ooh
+No puedo decirte que no
+
+Hazme adicta
+Hazme adicta
+Caigo más fuerte cada vez que me vengo por ti
+Ooh ooh ooh ooh ooh
+No puedo decirte que no
+Ooh ooh ooh ooh ooh
+No puedo decirte que no
+
+Caer más profundo, (cayendo en ti)
+Callendo más profundo, (justo como quieres)
+Caer más profundo, (cayendo en ti)
+Cayendo más profundo, (como si me necesitaras)
+
+Te necsito tanto
+`,
 
 };
 const audio = document.getElementById('audio');
