@@ -784,7 +784,7 @@ nada raro
 Solo... Hablar
 
 No me dejes ir
-Tu sabbes que yo quiero estar junto a ti
+Tu sabes que yo quiero estar junto a ti
 No pararé hasta que seas para mi
 No pararé hasta que seas para mi
 Que seas para mí
@@ -799,7 +799,7 @@ Con cosas que lamentaré
  ♪♪♪
 
 No me dejes ir
-Tu sabbes que yo quiero estar junto a ti
+Tu sabes que yo quiero estar junto a ti
 No pararé hasta que seas para mi
 No pararé hasta que seas para mi
 Que seas para mí
@@ -1133,6 +1133,94 @@ Cayendo más profundo, (como si me necesitaras)
 
 Te necsito tanto
 `,
+
+	"graveyard_orgy_massacre.mp3": `Besémonos en el cementerio
+Sangre en tus labios, muestra tus cicatrices
+Escalofríos constantes bajan por tu espalda
+Matando cristianos en la noche
+Es nuestra canción de amor, vamos a drogarnos
+Follar sobre las tumbas toda la noche
+Seis llamadas perdidas, es mi ex
+Que se joda esa perra, no existes
+En mi cabeza, las paredes se derrumban
+Rompiste mi mente y me hiciste reír
+Tira una tostadora en mi baño
+Hazme sufrir en la parte de atrás
+Ayúdame, no puedo escapar
+De la ansiedad, podría romperme
+No puedo seguir así
+Tendré que irme y no me van a extrañar
+
+Agarra el cuchillo de mi mochila
+Y corre lejos del— del pasado
+Juguemos en la habitación, juguemos nuestros juegos
+Puede que muera, pero no me voy a romper
+
+Besémonos en el cementerio
+Sangre en tus labios, muestra tus cicatrices
+Escalofríos constantes bajan por tu espalda
+Matando cristianos en la noche
+Es nuestra canción de amor, vamos a drogarnos
+Follar sobre las tumbas toda la noche
+Seis llamadas perdidas, es mi ex
+Que se joda esa perra, no existes
+En mi cabeza, las paredes se derrumban
+Rompiste mi mente y me hiciste reír
+Tira una tostadora en mi baño
+Hazme sufrir en la parte de atrás
+Ayúdame, no puedo escapar
+De la ansiedad, podría romperme
+No puedo seguir así
+Tendré que irme y no me van a extrañar`,
+
+	"SLASHER.mp3": `Y pensar que hubo un tiempo en el que de verdad creí que eras genial...
+Hombre, si no puedes lidiar conmigo ahora, entonces quédate en casa y dispara a tu tele, ¡revienta un par de tostadoras o algo!
+¡Solo no vengas a la escuela y no te metas conmigo!
+
+Convierte esto en un slasher mientras te persigo en la noche
+Y será mejor que seas listo porque tengo mi pistola y mi cuchillo
+Y cuida por dónde caminas porque podrías llevarte un susto
+Y creo que esa chica es una vampira porque cuando follamos, muerde
+
+No me importa, vivo en la desesperación
+Odio este lugar, garras corriendo por mi cabello
+Espero que me den la silla
+Y la odio, no sirvo en pareja
+
+Me estoy poniendo muy ansioso, borracho en la fiesta
+Mi corazón trabajando de más, mezclé benzos con oxys
+Solo quiero irme pero no encuentro el vestíbulo
+Solo quiero dormir pero no siento mi cuerpo
+
+Necesito mis medicinas
+No vas a escaparte de mí
+Quiero meterme balas en la cabeza
+Siento que Dios hizo de esto mi destino
+
+Mi cabeza está hecha mierda
+Perdón, soy un desastre
+Solo quería tu amor
+Tú solo quieres terminar
+
+Quiero ser mejor
+Probablemente piensas que nunca
+Nunca voy a mejorar
+Debería simplemente olvidarla
+
+Ahora estoy bien jodido
+Muriendo en el club
+Siempre drogado
+No puedo tener suficiente (x2)
+
+Convierte esto en un slasher mientras te persigo en la noche
+Y será mejor que seas listo porque tengo mi pistola y mi cuchillo
+Y cuida por dónde caminas porque podrías llevarte un susto
+Y creo que esa chica es una vampira porque cuando follamos, muerde
+
+No me importa, vivo en la desesperación
+Odio este lugar, garras corriendo por mi cabello
+Espero que me den la silla
+Y la odio, no sirvo en pareja`,
 
 };
 const audio = document.getElementById('audio');
