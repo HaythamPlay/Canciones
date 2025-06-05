@@ -1063,7 +1063,7 @@ ven, recuéstate en mí, cariño
 
 Y nunca nos importó una mierda el uno al otro
 Y nunca nos importó una mierda el uno al otro
-Juega conmigo hasta que te vatas y encuentres a otra
+Juega conmigo hasta que te vayas y encuentres a otra
 Nunca me importó una mierda, ahora fóllame
 
 Hazme adicta
