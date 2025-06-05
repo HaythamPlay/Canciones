@@ -1043,7 +1043,7 @@ Ooh ooh ooh ooh ooh
 No puedo decirte que no
 
 Caer más profundo, (cayendo en ti)
-Callendo más profundo, (justo como quieres)
+Cayendo más profundo, (justo como quieres)
 Caer más profundo, (cayendo en ti)
 Cayendo más profundo, (como si me necesitaras)
 
@@ -1084,7 +1084,7 @@ Ooh ooh ooh ooh ooh
 No puedo decirte que no
 
 Caer más profundo, (cayendo en ti)
-Callendo más profundo, (justo como quieres)
+Cayendo más profundo, (justo como quieres)
 Caer más profundo, (cayendo en ti)
 Cayendo más profundo, (como si me necesitaras)
 
@@ -1127,7 +1127,7 @@ Ooh ooh ooh ooh ooh
 No puedo decirte que no
 
 Caer más profundo, (cayendo en ti)
-Callendo más profundo, (justo como quieres)
+Cayendo más profundo, (justo como quieres)
 Caer más profundo, (cayendo en ti)
 Cayendo más profundo, (como si me necesitaras)
 
