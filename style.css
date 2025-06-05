@@ -14,7 +14,7 @@ body {
   border: 2px solid #0ff;
   border-radius: 16px;
   padding: 30px;
-   width: 2000px;; 
+   width: 950px;; 
   box-shadow: 0 0 25px #0ff;
   transition: all 0.3s ease;
 }
@@ -123,4 +123,27 @@ body {
   object-fit: cover;
   border-radius: 6px;
   flex-shrink: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .lyrics-box {
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 16px;
+    line-height: 1.6;
+    width: 100%;
+  }
+
+  .main-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .song-list {
+    width: 90%;
+  }
+
+  .lyrics-box {
+    width: 90%;
+  }
 }
